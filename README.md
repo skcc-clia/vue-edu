@@ -1,6 +1,7 @@
 # 구매Solution 팀 Front-End(Vue3) 교육 아젠다
 
 ## Day 1 (4/30일) : Vue 3 기본기 다지기
+0. Front-End 변천사
 1. Vue 3 소개 및 개발 환경 세팅
 2. Composition API 기본 이해
 3. 템플릿 문법과 디렉티브
@@ -22,3 +23,10 @@
 ## Day4 (6/11일) : 향후 GPro 커스터마이징 및 고려사항 
 13. GPro딜리버리 시 고려사항 및 커스터마이징 범위
 14. 기타 Q&A
+
+---
+
+</br>
+
+# AI 도구(Cursor.ai) 를 이용한 vue3 프로젝트 생성 프롬프트
+> 프롬프트 : vue-edu-prj 폴더에 vue3 개발환경을 만들어줘. 이때, pinia 와 vue router 도 같이 설정해줘
