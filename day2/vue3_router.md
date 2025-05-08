@@ -52,7 +52,7 @@ app.mount('#app');
 
 ## 🧭 4. 라우터 링크 및 뷰
 
-```vue
+```html
 <!-- App.vue -->
 <template>
   <nav>
@@ -78,7 +78,7 @@ app.mount('#app');
 }
 ```
 
-```vue
+```html
 <!-- User.vue -->
 <script setup>
 import { useRoute } from 'vue-router';
