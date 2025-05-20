@@ -29,4 +29,4 @@
 </br>
 
 # AI 도구(Cursor.ai) 를 이용한 vue3 프로젝트 생성 프롬프트
-> 프롬프트 : vue-edu-prj 폴더에 vue3 개발환경을 만들어줘. 이때, pinia 와 vue router 도 같이 설정해줘
+> 프롬프트 : vue-edu-prj 폴더에 vue3(+javascript) 개발환경을 만들어줘. 이때, pinia 와 vue router 도 같이 설정해주고 샘플 
